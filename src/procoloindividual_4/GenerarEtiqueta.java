@@ -13,4 +13,5 @@ public class GenerarEtiqueta {
         System.out.println("Etiqueta: " + producto.getNombre() + " - $" + producto.getPrecio());
     }
 
+    
 }
