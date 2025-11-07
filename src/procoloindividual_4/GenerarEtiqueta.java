@@ -8,10 +8,9 @@ package procoloindividual_4;
  *
  * @author Sebastian
  */
+
 public class GenerarEtiqueta {
     public void GenerarEtiqueta(Producto producto) {
         System.out.println("Etiqueta: " + producto.getNombre() + " - $" + producto.getPrecio());
-    }
-
-    
+    } 
 }
